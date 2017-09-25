@@ -1,0 +1,8 @@
+{
+  "name": "testForWork",
+  "version": "1.0.0",
+  "dependencies": {
+    "body-parser": "^1.18.1",
+    "express": "^4.15.4"
+  }
+}
